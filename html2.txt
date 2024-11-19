@@ -1,5 +1,4 @@
 good morning
 welcome to git class
 good afternoon
-welcome to git class 
-
+welcome to git class
